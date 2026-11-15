@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107721240163",
+    "project_id": "nyumbani-estate-d6b20",
+    "storage_bucket": "nyumbani-estate-d6b20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107721240163:android:46b25513b1cdeda0015256",
+        "android_client_info": {
+          "package_name": "com.example.nyumbani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3QvJ9i-rQHFFoJyM0PI1Y9eVOhH4V7o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
